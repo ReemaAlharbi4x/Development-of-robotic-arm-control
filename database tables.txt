@@ -1,0 +1,20 @@
+CREATE database motors_db ;
+use motors_db;
+
+CREATE TABLE `motors_values` ( 
+`ID` BIGINT  UNSIGNED NOT NULL AUTO_INCREMENT,
+`v1` INT(100) NULL,
+`v2` INT(100) NULL,
+`v3` INT(100) NULL,
+`v4` INT(100) NULL,
+`v5` INT(100) NULL,
+`v6` INT(100) NULL,
+PRIMARY KEY (ID) 
+) ;
+
+
+CREATE TABLE `run_values` ( 
+`ID` BIGINT  UNSIGNED NOT NULL AUTO_INCREMENT,
+`run_value` INT(100) NULL,
+PRIMARY KEY (ID) 
+) ;
