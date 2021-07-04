@@ -1,8 +1,5 @@
-# Six Motors Control Panel Web Page Front-End Full stack developing 
-*This repository is about creating a control panel web page for controlling six motors by its angles*
-**NOTE**
-***this work is based on Full Stack Front-End developing***
-*Here is the list of files:*
+# Six-motor control panel web front-end full-stack development 
+This repository is about creating a control panel web page for controlling six motors by angle. Note that this work is based on full-stack front-end development. Here is the file list:
 1. index.html 
 2. style.css
 3. script.js
